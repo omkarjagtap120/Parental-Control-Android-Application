@@ -61,37 +61,37 @@ Parent's Phone                          Child's Phone
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/splash.png" width="160px" /><br/>
+      <img src="screenshots/splash.png"/><br/>
       <sub><b>Splash</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/role_select.png" width="160px" /><br/>
+      <img src="screenshots/role_select.png"/><br/>
       <sub><b>Role Select</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/parent_login.png" width="160px" /><br/>
+      <img src="screenshots/parent_login.png"/><br/>
       <sub><b>Parent Login</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/parent_signup.png" width="160px" /><br/>
+      <img src="screenshots/parent_signup.png"/><br/>
       <sub><b>Parent Sign Up</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/live_location.png" width="160px" /><br/>
+      <img src="screenshots/live_location.png"/><br/>
       <sub><b>Live Location</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/geofencing.png" width="160px" /><br/>
+      <img src="screenshots/geofencing.png"/><br/>
       <sub><b>Geofence Setup</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/app_lock.png" width="160px" /><br/>
+      <img src="screenshots/app_lock.png"/><br/>
       <sub><b>App Lock List</b></sub>
     </td>
     <td align="center">
-      <img src="screenshots/child_home.png" width="160px" /><br/>
+      <img src="screenshots/child_home.png"/><br/>
       <sub><b>Child Home</b></sub>
     </td>
   </tr>
